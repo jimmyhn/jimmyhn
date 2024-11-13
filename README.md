@@ -2,7 +2,7 @@
 - 👀 I’m currently interested in applying programming to medical applications, and perhaps in the development of nano~ robotics/medicine.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on making a program that can identify cells accurately in phase contrast images, and measure several characteristics of their cell morphology. The main goal being to completely automate this process as efficiently as possible.
-- 📫 How to reach me: jimmyhn6@uci.edue
+- 📫 How to reach me: jimmyhn6@uci.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My first ever coding language was through MATLAB.
 
